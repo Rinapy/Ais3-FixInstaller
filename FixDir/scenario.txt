@@ -1,0 +1,3 @@
+Path=C:\Program Files (x86)\Ais3Prom\
+Setup="C:\Program Files (x86)\Ais3Prom\Client\CommonComponents.Catalog.IndexationUtility.exe"
+Overwrite=1
